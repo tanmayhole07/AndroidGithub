@@ -15,5 +15,7 @@ public class MainActivity extends AppCompatActivity {
         Log.i("Tag" ,"Commit");
         Log.i("Tag" ,"Commit");
 
+        Log.i("Tag" ,"my Commit");
+
     }
 }
